@@ -1,10 +1,12 @@
 ---
 layout: post
 category : lessons
-tagline: "Supporting tagline"
+tagline: "Static git based blog"
 tags : [intro, beginner, jekyll, tutorial]
 ---
 {% include JB/setup %}
+
+*This isn't a post written by me but I thought it'd be useful to keep for my own interest.*
 
 This Jekyll introduction will outline specifically  what Jekyll is and why you would want to use it.
 Directly following the intro we'll learn exactly _how_ Jekyll does what it does.
