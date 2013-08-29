@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 category: info
 tagline: Starting out with node.js
@@ -25,4 +25,3 @@ We use git with the git-flow principle but git-flow doesn't fully fit our proces
 
 I wanted to write a git-flow-esq utility that would be easy for the rest of the team to amend etc.
 I used [Writing a command Line utility with node.js (and Grunt)](http://flippinawesome.org/2013/07/29/writing-a-command-line-utility-using-node/) as a starting point for this.
-
