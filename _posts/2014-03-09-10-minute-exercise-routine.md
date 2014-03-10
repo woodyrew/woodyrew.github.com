@@ -7,8 +7,6 @@ tags:
   - Exercise
 ---
 
-{% include JB/setup %}
-
 ## The 10 minute exercie routine.
 High intensity interval training (HIIT) isn't new, this is a version I worked out for my girlfriend that works pretty well as a ~4 times a week session.  I'm not a sports scientist and following this routine is entirely at your own risk.*
 
